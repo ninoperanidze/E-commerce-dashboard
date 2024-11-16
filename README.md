@@ -25,11 +25,17 @@ Here are some snapshots of the dashboard to illustrate the features and the insi
 ### Sales Overview by Year and Region
 ![Sales Overview](examples/1.png)
 
-### Profit Distribution by Customer Segment
+### Profit Analysis
 ![Profit Overview](examples/2.png)
 
-### Quantity Sold by Product Category
-![Quantity Sold](examples/3.png.png)
+### Quantity Sold 
+![Quantity Sold](examples/3.png)
+
+### Sales Analysis by Product Sub Categories 
+![Sales by products](examples/4.png)
+
+### Profit Analysis by Product Sub Categories 
+![Profit by products](examples/5.png)
 
 ## How to Use
 1. Clone the repository to your local machine.
@@ -37,13 +43,5 @@ Here are some snapshots of the dashboard to illustrate the features and the insi
 3. Run `EDA-orders.ipynb` in a Jupyter environment to view the exploratory data analysis.
 4. Explore the dashboard using the provided interactive elements to gain insights into e-commerce sales performance.
 
-## Contributing
-Contributions to this project are welcome. Please read `CONTRIBUTING.md` for details on our code of conduct and the process for submitting pull requests.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-- Thanks to all the contributors who have helped in refining the analysis and dashboard.
-- Special thanks to [Data Source Name] for providing the dataset used in this analysis.
-
