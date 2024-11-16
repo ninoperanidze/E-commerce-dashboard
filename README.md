@@ -23,13 +23,13 @@ The dashboard provides a visual representation of e-commerce metrics with the ab
 Here are some snapshots of the dashboard to illustrate the features and the insights it can provide:
 
 ### Sales Overview by Year and Region
-![Sales Overview](path/to/sales_overview.png)
+![Sales Overview](examples/1.png)
 
 ### Profit Distribution by Customer Segment
-![Profit Distribution](path/to/profit_distribution.png)
+![Profit Overview](examples/2.png)
 
 ### Quantity Sold by Product Category
-![Quantity Sold](path/to/quantity_sold.png)
+![Quantity Sold](examples/3.png.png)
 
 ## How to Use
 1. Clone the repository to your local machine.
