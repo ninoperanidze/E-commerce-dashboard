@@ -3,12 +3,6 @@
 ## Project Overview
 This project focuses on analyzing e-commerce sales data to create a comprehensive dashboard. The goal is to provide an insightful overview of sales, profit, and quantity sold, segmented by year and region. The dashboard further categorizes these metrics by customer segment and product category to highlight general trends in the data.
 
-## Files in Repository
-- `E-commerce dashboard.pbix`: Power BI file containing the e-commerce dashboard.
-- `EDA-orders.ipynb`: Jupyter notebook for exploratory data analysis on e-commerce orders.
-- `orders.csv`: Original dataset of e-commerce orders.
-- `orders_cleaned.csv`: Cleaned and preprocessed dataset used for the dashboard.
-
 ## Dashboard Features
 The dashboard provides a visual representation of e-commerce metrics with the ability to drill down into more detailed views based on various business dimensions:
 - **Yearly and Regional Breakdowns**: Overview of sales, profit, and quantity sold by year and region.
@@ -36,6 +30,12 @@ Here are some snapshots of the dashboard to illustrate the features and the insi
 
 ### Profit Analysis by Product Sub Categories 
 ![Profit by products](examples/5.png)
+
+## Files in Repository
+- `E-commerce dashboard.pbix`: Power BI file containing the e-commerce dashboard.
+- `EDA-orders.ipynb`: Jupyter notebook for exploratory data analysis on e-commerce orders.
+- `orders.csv`: Original dataset of e-commerce orders.
+- `orders_cleaned.csv`: Cleaned and preprocessed dataset used for the dashboard.
 
 ## How to Use
 1. Clone the repository to your local machine.
