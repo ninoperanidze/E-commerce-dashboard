@@ -1,4 +1,4 @@
-# E-commerce Sales Dashboard Project
+# E-commerce Sales Dashboard
 
 ## Project Overview
 This project focuses on analyzing e-commerce sales data to create a comprehensive dashboard. The goal is to provide an insightful overview of sales, profit, and quantity sold, segmented by year and region. The dashboard further categorizes these metrics by customer segment and product category to highlight general trends in the data.
