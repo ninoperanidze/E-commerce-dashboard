@@ -1,7 +1,8 @@
 # E-commerce Sales Dashboard
 
 ## Project Overview
-This project focuses on analyzing e-commerce sales data to create a comprehensive dashboard. The goal is to provide an insightful overview of sales, profit, and quantity sold, segmented by year and region. The dashboard further categorizes these metrics by customer segment and product category to highlight general trends in the data.
+This project focuses on analyzing e-commerce sales data to create a comprehensive dashboard. The goal is to provide an insightful overview of sales, profit, and quantity sold, segmented by year and region. The dashboard further categorizes these metrics by customer segment and product category to highlight general trends in the data. 
+[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWNmMDkwYzktMmFkZS00NzI4LTk5YjktNTZhY2YwNmJhYjRmIiwidCI6ImRhNzA4NmQzLTliNDktNGQyOC05OWJkLWM0NzY3YjIxMDFjYSIsImMiOjEwfQ%3D%3D)
 
 ## Dashboard Features
 The dashboard provides a visual representation of e-commerce metrics with the ability to drill down into more detailed views based on various business dimensions:
